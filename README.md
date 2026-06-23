@@ -1,6 +1,3 @@
-Great — this is the **core ensemble training section of your NLP classification project**. Here’s a clean explanation + a **professional README update block** you can directly add to your GitHub project.
-
----
 
 # 🤝 Ensemble Learning (Voting Classifier)
 
@@ -116,25 +113,4 @@ This approach is widely used in:
 * Fraud detection systems
 * News classification engines
 
----
 
-## 🧾 Suggested README Section Title
-
-You can include this in your GitHub README under:
-
-```
-## 🤝 Ensemble Learning (Voting Classifier)
-```
-
----
-
-## 🚀 If You Want Next Upgrade
-
-I can also help you:
-
-✔ Add **accuracy comparison table (LogReg vs RF vs Ensemble)**
-✔ Create a **confusion matrix visualization section**
-✔ Build a **Streamlit app (type text → get prediction)**
-✔ Or merge ALL your ML projects into one **AI portfolio README**
-
-Just tell me 👍
